@@ -1,0 +1,3 @@
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/cmake-build-debug/CMakeFiles/Fractal_Creator.dir

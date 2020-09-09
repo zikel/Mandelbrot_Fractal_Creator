@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Bitmap.h
+BitmapInfoHeader.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/BitmapInfoHeader.h
+BitmapFileHeader.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/BitmapFileHeader.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/BitmapFileHeader.h
+cstdint
+-
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/FractalCreator.cpp
+iostream
+-
+assert.h
+-
+FractalCreator.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/FractalCreator.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/FractalCreator.h
+string
+-
+cstdint
+-
+memory
+-
+cmath
+-
+vector
+-
+Mandelbrot.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Mandelbrot.h
+ZoomList.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/ZoomList.h
+Bitmap.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Bitmap.h
+cmath
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/cmath
+RGB.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/RGB.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Mandelbrot.cpp
+complex
+-
+Mandelbrot.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Mandelbrot.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Mandelbrot.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/RGB.cpp
+RGB.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/RGB.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/RGB.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Zoom.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/ZoomList.cpp
+ZoomList.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/ZoomList.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/ZoomList.h
+vector
+-
+utility
+-
+Zoom.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/Zoom.h
+
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/main.cpp
+iostream
+-
+FractalCreator.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/FractalCreator.h
+RGB.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/RGB.h
+ZoomList.h
+/Users/Zike/Dropbox/CLionProjects/Fractal Creator/ZoomList.h
+
